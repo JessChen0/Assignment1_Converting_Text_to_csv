@@ -1,0 +1,14 @@
+---
+title: "Assignment1_Chess_Tournament_Results"
+format: gfm
+editor: visual
+---
+
+## Approach
+
+My approach for this assignment will be to:
+
+1.  Load the txt file into R markdown file
+2.  Understand player rating systems by reviewing the recording online
+3.  Calculate "should be" pre rating of opponents for first few players
+4.  Write R code to auto calculate pre tournament ratings for each player
